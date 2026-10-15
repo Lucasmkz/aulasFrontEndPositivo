@@ -1,0 +1,12 @@
+
+#lamp {
+    width: 10%;
+}
+
+* {
+    background-color: white;
+}
+
+.oculta {
+    display: none;
+}
